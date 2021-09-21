@@ -1,4 +1,4 @@
-# Modcore-Example-ENA
+# ENA Skin Pack for ModCore
 
 An example mod for Enigma Engine which implements the popular "ENA Skin Pack" skins mod. Please use this as a working example to create your own mods.
 
